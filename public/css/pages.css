@@ -1,0 +1,343 @@
+
+.contactBox{
+    text-align: center;
+    color: white;
+}
+.iconBg{
+    padding: 1rem;
+    background: white;
+    color: var(--secondary-color);
+    border-radius: 20%;
+    margin-bottom: 1.5rem;
+    font-size: 1.5rem;
+}
+.ContactForm{
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    padding: 2rem;
+
+}
+.ContactForm .form-control{
+    padding: 0.9rem;
+}
+
+.abtBg {
+    background-image: url(../images/second.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    z-index: 1;
+    height: 40rem;
+    background-attachment: fixed;
+}
+.abtCont1{
+    position: absolute;
+    z-index: 14;
+    right: 8%;
+    color: white;
+    top: 25%;
+    background:rgba(0, 0, 0, .3);
+    border-radius: 0.2rem;
+    padding: 4rem;
+    text-align: right;
+    width: 45rem;
+}
+.abtCont1 h2{
+    font-weight: 700;
+    font-size: 3rem;
+    padding-bottom: 10px;
+
+}
+.abtCont1 p{
+    font-size: 1.5rem;
+    padding-bottom: 10px;
+
+}
+.btnAbt1{
+    font-size: 1.3rem;
+    padding: 1rem 3rem;
+}
+
+.abt3Cont {
+    background-image: url(../images/first.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: relative;
+    z-index: 1;
+    height: 45rem;
+}
+
+.abt3Cont::before{
+    background-color: rgba(0, 0, 0, .6);
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+}
+.abt3Cont .p2{
+    font-size: 1.2rem;
+}
+.abt3Cont .p3{
+    font-weight: 300;
+}
+.abtCard{
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    background-color: rgba(255, 255, 255, .2);
+    text-align: center;
+    border-radius: 0.5rem;
+    padding: 2rem 1.5rem;
+    border-left: 8px solid var(--secondary-color) ;
+}
+
+.iconAbt{
+    font-size: 3rem;
+    color: white;
+    text-align: center;
+    background: var(--primary-color, 0.4);
+    padding: 1.5rem;
+    border-radius: 22%;
+}
+.lineStyle{
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+    color: #baacac;
+}
+.imgTes{
+    height: 75vh;
+    width: 100%;
+}
+.tesCont{
+    background-color: var(--bg-color);
+    margin-left: -6rem;
+    margin-top: 5rem;
+}
+.textCont{
+    width: 50%;
+    text-align: center;
+    color: white;
+}
+.comText{
+    font-size: 1.2rem;
+    font-weight: 100;
+}
+
+/* register */
+
+.regSec2{
+    background-color: var(--bg-color);
+    height: 100vh;
+}
+.regSec2 .imgResigter{
+    width: 100%;
+    height: 100%;
+    border-radius: 0.2rem;
+}
+
+.regForm{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding: 3rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+}
+.regImgTexg{
+    position: absolute;
+    z-index: 14;
+    color: white;
+    inset: 0;
+    background: rgba(0, 0, 0, .5);
+    border-radius: 0.2rem;
+    padding: 4rem;
+    text-align: center;
+    width: 100%;
+}
+.regForm .form-check-label{
+    color: black;
+}
+
+/* cleint */
+
+.clientBg {
+    background-image: url(../images/first.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    z-index: 1;
+    height: 40rem;
+    background-color: rgba(0, 0, 0, .3);
+    background-attachment: fixed;
+
+}
+.clientCont{
+    position: absolute;
+    z-index: 14;
+    right: 8%;
+    color: white;
+    top: 25%;
+    background: rgba(0, 0, 0, .3);
+    border-radius: 0.2rem;
+    padding: 4rem;
+    text-align: right;
+    width: 45rem;
+}
+.postForm{
+
+    width: 100%;
+    padding: 3rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    background-color: white;
+
+}
+
+.postForm .form-control{
+    padding: 0.8rem;
+    border-radius: 2px;
+    margin-bottom: 6px;
+    border: none;
+    border-bottom: 1px solid var(--primary-color);
+    font-weight: 100;
+
+}
+
+.postForm .form-control:focus{
+    box-shadow: none;
+}
+.bgClient2{
+    background-image: url(../images/second.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    z-index: 1;
+    height: 30rem;
+
+}
+.bgText2{
+    position: absolute;
+    inset: 0;
+    background: rgb(0,0,0,0.5);
+    color: white;
+    position: absolute;
+    inset: 0;
+    background: rgb(0,0,0,0.5);
+    color: white;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.textBoxClient{
+    width: 50%;
+    text-align: center;
+}
+.textBoxClient p{
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+/* jobs */
+.jobBg {
+    background-image: url(../images/third.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    z-index: 1;
+    height: 40rem;
+    background-color: rgba(0, 0, 0, .3);
+    background-attachment: fixed;
+}
+.jobCont1{
+    position: absolute;
+    z-index: 14;
+    right: 8%;
+    color: white;
+    top: 17%;
+    background: rgba(0, 0, 0, .3);
+    border-radius: 0.2rem;
+    padding: 1.5rem;
+    text-align: right;
+    width: 40rem;
+}
+
+.jobCont2{
+    position: absolute;
+    z-index: 14;
+    right: 8%;
+    color: white;
+    bottom: 8%;
+    background: rgba(0, 0, 0, .3);
+    border-radius: 0.2rem;
+    padding: 1.5rem;
+    text-align: right;
+    width: 40rem;
+}
+.mapSec{
+    height: 600px;
+    width: 600px;
+}
+.cardAbtSec1{
+    padding-top: 4rem;
+}
+
+.comPadding22{
+    padding: 4rem 0rem;
+}
+
+
+@media screen and (max-width: 650px){
+    .comPadding22{
+        padding: 0rem;
+    }
+    .contactBox{
+        margin-bottom: 1.5rem;
+    }
+    .mapSec{
+        width: 370px;
+    }
+    .abt3Cont{
+        background-image: none;
+        height: 105rem;
+        padding: 0rem 1rem;
+    }
+    .abtCard{
+        margin-bottom: 1rem;
+    }
+    .heading1{
+        font-size: 2rem;
+    }
+    .cardAbtSec1{
+        padding-top: 2rem;
+    }
+    .textCont{
+        width: 100%;
+        padding: 3rem;
+    }
+    .textBoxClient{
+        width: 100%;
+        padding: 0rem 1rem;
+    }
+    .textBoxClient p{
+        font-size: 2rem;
+    }
+    .clientCont{
+        padding: 2rem !important;
+        width: 20rem !important;
+        right: 5% !important;
+
+    }
+    .btnAbt1 {
+        font-size: 1rem;
+    }
+    .regImgTexg {
+        padding: 2rem !important;
+    }
+    .regForm{
+        padding: 2rem ;
+    }
+    .regSec2 {
+        height: 1070px;
+    }
+}
+
+
+
+

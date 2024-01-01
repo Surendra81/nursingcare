@@ -1,0 +1,49 @@
+.navbar{
+    height: 80px;
+    background-color: white;
+}
+.navbar-brand{
+    font-weight: 400;
+}
+
+#navbarText{
+    justify-content: end;
+}
+.nav-item2{
+    padding-right: 1.8rem;
+    font-weight: 400;
+}
+
+.nav-item
+    .nav-link{
+        font-size: 1rem;
+        text-transform: uppercase;
+        color: var(--primary-color);
+
+}
+.nav-item
+    .nav-link:hover{
+        color: var( --secondary-color);
+
+}
+
+.navbar-nav .nav-item.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.navbar-nav .nav-item.dropdown .dropdown-menu {
+    transition: none;
+    width: 100%;
+    background-color: white;
+
+}
+.navbar-nav .nav-item.dropdown .dropdown-item:hover {
+    color: var( --secondary-color) ;
+    background-color: white;
+
+}
+
+
+
+
+

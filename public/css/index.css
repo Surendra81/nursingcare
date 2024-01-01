@@ -1,0 +1,581 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    }
+
+:root{
+    --primary-color:#21295c;
+    --secondary-color:#9E1946;
+    --third-color:#8C271E;
+    --bg-color:#f7f7f7;
+    --bg-footer:#020830;
+    --fourth-color:#f37349
+}
+p{
+    font-weight: 300;
+}
+.clgp{
+    color: var(--primary-color);
+}
+.clgs{
+    color: var(--secondary-color);
+}
+.clgt{
+    color: var(--third-color);
+}
+p{
+    margin-bottom: 6px;
+}
+.comPadding{
+    padding: 4rem 0rem;
+}
+.iconBgCom{
+    background-color: var(--secondary-color);
+    padding: 1rem;
+    color: white;
+    border-radius: 0.2rem;
+    font-size: 2rem;
+}
+.bgColor{
+    background-color: var(--bg-color);
+}
+.comCardText{
+    font-size: 15px;
+    font-weight: 300;
+
+}
+
+.heading1{
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+.heading2{
+    font-size: 2.3rem;
+    font-weight: 700;
+}
+
+.bannerInnerSec::before{
+    /* inset: 0;
+    position: absolute;
+    background-color: rgba(0, 0, 0, .4);
+    height: 95vh;
+    width: 100%;
+    content: ""; */
+
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #000000;
+    opacity: .5;
+    content: "";
+
+}
+
+.bannerInnerSec{
+    height: 95vh;
+}
+.bannerCarouselCaption{
+    top: 20%;
+    right: auto;
+    text-align: left;
+
+}
+.bannerCarouselCaption .text1{
+    font-size: 2rem;
+    font-weight: 400;
+}
+.bannerCarouselCaption .text2{
+    font-size: 5rem;
+    font-weight: 700;
+}
+.bannerCarouselCaption .text3{
+    font-size: 1.3rem;
+    font-weight: 300;
+}
+.btnPrimary{
+    background-color: var(--secondary-color);
+    color:white;
+    padding: 0.8rem 1.5rem;
+    border-radius: 3rem;}
+.btnPrimary:hover, .btnPrimary:active{
+    background-color: var(--secondary-color);
+    color:white;
+}
+.btnSecondary{
+    background-color: var(--primary-color);
+    color:white;
+    padding: 0.8rem 1.5rem;
+    border-radius: 3rem;
+}
+.btnSecondary:hover, .btnSecondary:active{
+    background-color: var(--primary-color);
+    color:white;
+
+}
+.comCenter {
+    display: flex;
+    align-items: center;
+}
+.secHeight{
+    height: 30rem;
+}
+.imgHeight{
+    height: 19rem;
+    width: 22rem !important;
+    border-radius: 0.2rem;
+}
+.secImg1{
+    position: absolute;
+    top: 11rem;
+    z-index: 1;
+    left: 1rem;
+}
+.secImg2{
+    position: absolute;
+    top: 0;
+    z-index: 2;
+    right: 0;
+}
+
+/* divider sec */
+.clientText{
+    border-bottom: 7px solid var(--secondary-color);
+    display: inline-block;
+    color: white;
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+}
+
+/* recurit */
+.recuritHeading{
+    font-size: 2.3rem;
+    font-weight: 600;
+    text-align: center;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-bottom: 2rem;
+}
+.recCard{
+    position: relative;
+    background: #fff;
+    border-radius: 10px;
+    margin-bottom: 25px;
+    text-align: center;
+    box-shadow: 0 0 40px 5px rgb(0 0 0 / 3%);
+    width: 25rem;
+}
+
+.recCard img{
+    height: 19rem;
+    width: 100%;
+    border-radius: 10px;
+
+}
+.recText{
+    font-weight: 300;
+    padding: 0.5rem 0rem;
+
+}
+.cardTitle{
+    position: absolute;
+    top: 15rem;
+    z-index: 100;
+    color: white;
+    border-left: 6px solid var(--secondary-color);
+    padding: 10px;
+    display: inline-block;
+    height: 3rem;
+    font-weight: 700;
+}
+.cardBody{
+    padding: 1rem 2rem 2rem 2rem;
+    text-align: justify;
+}
+.overlayImg{
+    position: absolute;
+    top: 10.7rem;
+    left: 0;
+    width: 50%;
+    height: 108px;
+    height: 25%;
+    border-radius: 10px;
+    background-color: #053170a8;
+    z-index: 1;
+    opacity: 1;
+    border-top-right-radius: 100%;
+}
+
+/* care */
+.secHeight2{
+    height: 14rem;
+}
+.careTitle2{
+    color: white;
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+.careText2{
+    color: white;
+    font-weight: 300;
+    font-size: 15px;
+}
+.belCard{
+    position: relative;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 3px 13px 0px rgba(0, 0, 0, 0.1);
+    padding: 2rem;
+}
+.belTitle2{
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+.formSec .form-label, .form-check-label{
+    color: white;
+    font-weight: 100;
+
+}
+.formSec .form-control:placeholder-shown{
+    font-weight: 100;
+
+}
+.formHeadingR{
+    border-left: 7px solid var(--fourth-color);
+    padding-left: 1rem;
+}
+
+
+.formSec .form-control, .form-select{
+    padding: 0.8rem;
+    border-radius: 2px;
+    margin-bottom: 6px;
+    border: none;
+    border-bottom: 1px solid var(--primary-color);
+    font-weight: 100;
+
+}
+.formSec .form-control:focus{
+    box-shadow: none;
+}
+
+.formSec .form-select:focus{
+    box-shadow: none;
+}
+
+
+.homeForm{
+    padding: 3.5rem 3rem;
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    border-radius: 4px;
+}
+.homeForm .form-check-label{
+    color: black;
+}
+.input::placeholder{
+    font-weight: 100 !important;
+}
+.believeIcon{
+    background-color: var(--third-color);
+    margin-top: -2rem;
+    color: white;
+    padding: 1rem;
+}
+
+.abtBg2 {
+    background-image: url(../images/third.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    z-index: 1;
+    height: 35rem;
+    background-color: rgba(0, 0, 0, .3);
+}
+.abtCont2{
+    position: absolute;
+    z-index: 14;
+    left: 8%;
+    color: white;
+    top: 12%;
+    background:rgba(0, 0, 0, .6);
+    border-radius: 0.2rem;
+    padding: 4rem;
+    width: 45rem;
+}
+.imgRetire::before{
+    content: "";
+    border: 5px solid red;
+}
+.imgRetire{
+    max-width: 90%;
+    height: 600px;
+    object-fit: cover;
+    border-radius: 10px;
+    position: relative;
+    z-index: 2;
+}
+
+.borderBoxInside {
+    z-index: 1;
+    height: 480px;
+    border: 3px solid var(--secondary-color);
+    position: absolute;
+    top: 10%;
+    width: 94%;
+    border-radius: 10px;
+}
+.titleRet{
+    font-size: 1.3rem;
+    align-items: center;
+    display: flex;
+    padding-left: 10px;
+    font-weight: 100;
+}
+.logoIMsec{
+    display: flex;
+    justify-content: space-between;
+}
+.footer1BgCont{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.careTitle11{
+    font-size: 2.5rem;
+    color: white;
+    font-weight: 700;
+    padding-bottom: 1rem;
+    text-align: center;
+}
+.belSecCard{
+    margin-top: 1.5rem;
+}
+
+@media screen and (max-width:650px){
+    .comPadding{
+        padding: 2rem 0rem;
+    }
+    .navbar-collapse{
+        background: white;
+        z-index: 100;
+        padding-left: 1rem;
+        width: 100%;
+        margin-left: -12px;
+    }
+    .navbar-toggler:is(:focus, :active){
+        border: none;
+        box-shadow: none;
+    }
+    .bannerInnerSec{
+        height: auto;
+    }
+    .bannerCarouselCaption{
+        top: 15%;
+        display: block !important;
+    }
+    .bannerCarouselCaption .text2{
+        font-size: 1.8rem;
+    }
+    .bannerCarouselCaption .text3{
+        font-size: 1rem;
+    }
+    .bannerCarouselCaption .text1{
+        font-size: 1.2rem;
+        margin-bottom: 0px;
+    }
+    .carousel-item img{
+        height: 40vh;
+    }
+    .resNon{
+        display: none;
+    }
+    .abtCont2 {
+        width: 19rem;
+    }
+    .resCareSec{
+        height: 850px;
+    }
+    .heading2{
+        font-size: 1.5rem;
+    }
+    .abtCont2 {
+        padding: 1.5rem;
+
+    }
+    .recCard{
+        width: auto;
+    }
+    .resDivider{
+        height: 965px;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+   .recuritHeading{
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-align: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 1rem;
+   }
+   .logoIMsec{
+    display: block;
+   }
+   .resCurPadding{
+    padding: 0rem 2.5rem;
+   }
+   .resMt1{
+    margin-top: 1rem;
+   }
+   .resCardCare{
+    padding: 0rem 3rem;
+    margin-bottom: 1rem;
+   }
+   .formSec{
+    padding: 2rem 1rem;
+   }
+   .homeForm{
+    padding: 1rem;
+   }
+   .footer1BgCont{
+    display: block;
+    text-align: center;
+
+}
+.careTitle11{
+    font-size: 1.8rem;
+    padding: 0rem 2rem;
+    margin-bottom: 2rem;
+}
+.bgFooter1{
+    padding: 1rem;
+}
+.registerFot {
+    justify-content: center;
+}
+.bgFooter{
+    padding: 0rem 1.5rem;
+}
+.fotTitle{
+    margin-top: 1.5rem;
+}
+.secHeight {
+    height: 24rem;
+    padding: 0rem 1.5rem;
+}
+.abtCont1{
+    width: 21rem !important;
+    padding: 1.5rem !important;
+    right: 3% !important;
+}
+.abtCont1 p{
+    font-size: 1rem !important;
+}
+.abtCont1 h2{
+    font-size: 2rem !important;
+}
+.abtBg{
+    height: 32rem !important;
+}
+.jobCont1{
+    width: 20rem !important;
+    right: 5% !important;
+    top: 14% !important;
+}
+.jobCont2 {
+    width: 20rem !important;
+    right: 5% !important;
+    bottom: 5% !important;
+
+}
+.belSecCard{
+    padding: 0rem 1rem;
+    margin-top: 0.5rem;
+}
+.resFormEmp{
+    padding: 0rem 1.5rem;
+}
+.postFomr{
+    padding: 1rem;
+}
+}
+
+@media screen and (min-width:768px) and (max-width:1100px){
+    .navbar-collapse{
+        background: white;
+        z-index: 100;
+        padding-left: 1rem;
+        width: 100%;
+        margin-left: -12px;
+    }
+    .navbar-toggler:is(:focus, :active){
+        border: none;
+        box-shadow: none;
+    }
+    .bannerInnerSec{
+        height: 50vh;
+    }
+    .recCard{
+        width: 22rem;
+    }
+    .abtCont2 {
+        left: 3%;
+    }
+    .bannerCarouselCaption{
+        top: 10%;
+    }
+    .logoIMsec{
+        display: block;
+    }
+    .tabMt1{
+        margin-top: 1rem;
+    }
+    .homeForm{
+        padding: 2rem;
+    }
+    .abtCont1 {
+        right: 3% !important;
+        top: 20% !important;
+    }
+    .tabNon{
+        display: none;
+    }
+    .comPadding22{
+        padding: 0rem !important;
+    }
+    .abt3Cont {
+        height: 62rem !important;
+    }
+    .imgTes {
+        height: 40vh !important;
+    }
+    .textCont {
+        width: 100% !important;
+    }
+    .jobCont1{
+        top:  14% !important;
+    }
+    .jobCont2{
+        bottom: 35% !important;
+    }
+    .clientCont{
+        right: 3% !important;
+        top: 21% !important;
+    }
+    .textBoxClient {
+        width: 90% !important;
+    }
+    .resFormEmp{
+        padding: 0rem 2rem;
+    }
+    .regSec2{
+        height: 120vh !important;
+    }
+}
+
+
+
+
+

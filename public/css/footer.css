@@ -1,0 +1,53 @@
+.bgFooter{
+    background-color: var(--bg-footer);
+
+}
+.dividerFooter{
+    border-top: 3px solid var(--fourth-color);
+    width: 18%;
+    margin-top: -10px;
+    margin-bottom: 1.5rem;
+}
+.fotTitle{
+    font-size: 1.3rem;
+    padding-bottom: 1rem;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+}
+.registerFot{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+.bgFooter ul {
+    padding-left: 5px;
+    list-style: none;
+}
+
+.bgFooter ul li {
+    padding-bottom: 8px;
+    font-weight: 300;
+}
+.bgFooter1{
+    background-color: #00083b;
+    padding: 2rem;
+}
+.btnFooter{
+    padding: 1rem 3rem;
+    font-size: 1rem;
+    text-transform: uppercase;
+    background-color: var(--fourth-color);
+    color: white;
+}
+.btnFooter:is(:hover, :focus, :active){
+    background-color: var(--fourth-color) !important;
+    color: white !important;
+    border: none !important;
+
+}
+.fotArrow{
+    padding-right: 10px;
+    color: var(--fourth-color);
+    font-size: 1rem;
+}
