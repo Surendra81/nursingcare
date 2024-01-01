@@ -3,8 +3,8 @@
     <div class="clientBg"></div>
     <div class="clientCont">
         <h2 class="heading1"><span class="clgs heading1">We </span> Care Jobs and we Offer Specialized Services</h2>
-        <p>Explore your options for a rewarding career in aged care Lorem ipsum dolor, sit amet consectetur adipisicing
-            elit. Ipsam, dicta!</p>
+        <p>Explore your options for a rewarding career in aged care by joining with us. 
+            Discover fulfilling opportunities to make a positive impact on the well-being of seniors and contribute to a compassionate and supportive work environment. </p>
         <a href="#postForm">
             <button class="btn btnPrimary btnAbt1 mt-2">Register A Vacancy</button>
         </a>

@@ -11,24 +11,16 @@
                     Our Experties & Experience A New Perspective Of Life
                 </h2>
                 <div class="py-2">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur facilis, tempore ipsum tempora
-                        magnam dicta quaerat ut et autem assumenda eos consequatur modi nihil optio, omnis soluta
-                        obcaecati
-                        possimus exercitationem?</p>
+                    <p>Encompass a range of options, including independent and assisted living, memory care, skilled nursing, and various wellness programs. From engaging social activities to personalized care, 
+                        we strive to create a supportive and enriching environment for retirees.</p>
 
                     <ul class="py-2" style="list-style: none; padding-left:0px">
                         <li class="pb-1" style="font-weight: 400"> <span><i
-                                    class="fa-regular fa-circle-check fotArrow"></i></span>Lorem
-                            ipsum dolor sit, amet
-                            consectetur adipisicing elit. Debitis, rerum.</li>
+                                    class="fa-regular fa-circle-check fotArrow"></i></span>Providing comfortable housing and amenities for retirees who are still active and prefer a more independent lifestyle.</li>
                         <li class="pb-1" style="font-weight: 400"> <span><i
-                                    class="fa-regular fa-circle-check fotArrow"></i></span>Lorem
-                            ipsum dolor, sit amet
-                            consectetur adipisicing elit.</li>
+                                    class="fa-regular fa-circle-check fotArrow"></i></span>Delivering 24/7 medical care and rehabilitation services for retirees with complex health needs.</li>
                         <li class="pb-1" style="font-weight: 400"> <span><i
-                                    class="fa-regular fa-circle-check fotArrow"></i></span>Lorem
-                            ipsum dolor sit amet
-                            consectetur.</li>
+                                    class="fa-regular fa-circle-check fotArrow"></i></span>Providing guidance on financial matters and assisting retirees in managing their resources effectively.</li>
 
 
                     </ul>

@@ -14,11 +14,8 @@
                     <div class="cardBody">
 
                         <h3 class="cardTitle">Nursing care</h3>
-                        <p class="recText">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit aperiam
-                            tempora
-                            quas perspiciatis
-                            ad
-                            culpa molestiae suscipit illum repellendus error?</p>
+                        <p class="recText">Experience compassionate and personalized nursing care at our hospital, 
+                            where our dedicated team combines clinical expertise with empathy to ensure holistic well-being</p>
                         <button class="btn btnPrimary" style="width: 100%;">FIND OUT MORE</button>
                     </div>
 
@@ -32,11 +29,8 @@
                     <div class="cardBody">
 
                         <h3 class="cardTitle">For Clients</h3>
-                        <p class="recText">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit aperiam
-                            tempora
-                            quas perspiciatis
-                            ad
-                            culpa molestiae suscipit illum repellendus error?</p>
+                        <p class="recText">Discover unparalleled nursing care designed for you. Our expert team is committed to delivering personalized and compassionate services,
+                             ensuring your well-being is our top priority</p>
                         <button class="btn btnPrimary" style="width: 100%;">FIND OUT MORE</button>
                     </div>
 
@@ -50,11 +44,8 @@
                     <div class="cardBody">
 
                         <h3 class="cardTitle">For Jobseekers</h3>
-                        <p class="recText">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit aperiam
-                            tempora
-                            quas perspiciatis
-                            ad
-                            culpa molestiae suscipit illum repellendus error?</p>
+                        <p class="recText">Join our dynamic healthcare team and contribute to delivering exceptional nursing care. Explore career opportunities that value your skills, dedication, and 
+                            passion for making a positive impact on patients' lives</p>
                         <button class="btn btnPrimary" style="width: 100%;">FIND OUT MORE</button>
                     </div>
 

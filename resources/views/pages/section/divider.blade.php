@@ -13,10 +13,8 @@
                     searching for a carer, you can depend on us at any time, in any state.
 
                 </p>
-                <p style="color: white; font-weight:300">lorem ipsum dolor sit amet consectetur adipisicing elit. Sint,
-                    quaerat ex.
-                    Blanditiis iste enim ullam
-                    sequi soluta. </p>
+                <p style="color: white; font-weight:300">We prioritize a supportive and nurturing environment, fostering a sense of security and comfort. With a focus on individualized care plans, our skilled workforce strives to meet the unique needs of each resident,
+                 promoting a dignified and enriching living experience. </p>
 
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12">
@@ -24,24 +22,16 @@
                     <div style="border-bottom: 1px solid white">
                         <h2 class="heading2 clientText">Clients</h2>
                     </div>
-                    <p class="mt-4" style="color: white; font-weight:300">Lorem ipsum dolor sit, amet consectetur
-                        adipisicing elit.
-                        Temporibus
-                        similique accusantium in
-                        sint, architecto ipsa incidunt quibusdam ex. Assumenda sequi dolore nesciunt a totam amet
-                        doloribus reprehenderit esse. Accusantium, in?</p>
+                    <p class="mt-4" style="color: white; font-weight:300">Discover unparalleled nursing care designed for you. Our expert team is committed to delivering personalized and 
+                    compassionate services, ensuring your well-being is our top priority</p>
                 </div>
                 <div>
                     <div style="border-bottom: 1px solid white">
 
                         <h2 class="heading2 clientText">Job Seekers</h2>
                     </div>
-                    <p class="mt-4" style="color: white; font-weight:300">Lorem ipsum dolor sit, amet consectetur
-                        adipisicing elit.
-                        Temporibus
-                        similique accusantium in
-                        sint, architecto ipsa incidunt quibusdam ex. Assumenda sequi dolore nesciunt a totam amet
-                        doloribus reprehenderit esse. Accusantium, in?</p>
+                    <p class="mt-4" style="color: white; font-weight:300">Join our dynamic healthcare team and contribute to delivering exceptional nursing care. Explore career opportunities that value your skills, dedication, and 
+                    passion for making a positive impact on patients' lives</p>
                 </div>
             </div>
         </div>

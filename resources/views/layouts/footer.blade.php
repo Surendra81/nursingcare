@@ -19,8 +19,8 @@
                 <div class="col-sm-6 col-md-3 col-lg-3">
                     <h2 class="fotTitle">Contact</h2>
                     <div class="dividerFooter"></div>
-                    <p style="font-weight: 300">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Distinctio,
-                        dolores.</p>
+                    <p style="font-weight: 300">Our Address:Brisbane, Australia</br>
+                    Email Us:info@gmail.com</p>
                     <div class="pt-2" style="display:flex">
                         <div><i class="fa fa-facebook-square" aria-hidden="true" style="font-size: 1.7rem"></i>
                         </div>

@@ -8,8 +8,7 @@
                     <div class="regImgTexg">
                         <h2 class="heading1 text-center pb-2"> <span class=""> Register </span>with us</span>
                         </h2>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat ad deleniti asperiores minus
-                            iure earum, blanditiis a exercitationem nihil alias.</p>
+                        <p>For an exclusive opportunity to access personalized services, valuable resources, and stay informed about the latest updates tailored to your needs</p>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12 col-sm-12 ">
